@@ -13,7 +13,7 @@ This project demonstrates how to visualize activation maps from a convolutional 
 ### 1. Download the Pre-trained Model
 Download the Keras model file (`emotion2_model.keras`) from your provided Google Drive link:
 
-**[Download Model from Google Drive](YOUR_GOOGLE_DRIVE_LINK_HERE)**
+**[Download Model from Google Drive](https://drive.google.com/drive/folders/1XmQIvwEC-0PHBtssFhfmi9NZiuqWIlWw?usp=drive_link)**
 
 Place the downloaded file in the project root directory.
 
@@ -32,9 +32,8 @@ Run the `Visualization_layer.ipynb` notebook to visualize activation maps for an
 
 ## Notes
 - The GUI (`gui.py`) is optional and not required for activation map visualization.
-- The Haar Cascade XML file is included for possible face detection but is not used in the current notebooks.
 
 ## Main Intention
 **Visualize Activation Maps:**
 - Description: Visualize activation maps to understand which image regions activate CNN filters for emotion detection.
-- Guidelines: You can use any of your pre-trained models for this task. GUI is not necessary.
+
