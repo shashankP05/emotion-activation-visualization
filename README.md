@@ -28,11 +28,11 @@ pip install -r requirements.txt
 ```
 
 ### 4. Visualize Activation Maps
-Run the `Visualization_layer.ipynb` notebook to visualize activation maps for any input image. This notebook loads the pre-trained model, processes an image, and displays the feature maps from a convolutional layer.
+Run the Visualization_layer.ipynb notebook located inside the anaconda_projects/ folder to visualize activation maps for any input image. This notebook loads the pre-trained model, processes an image, and displays the feature maps from a convolutional layer.
 
-## About `Visualization_layer.ipynb`
+## About 'anaconda_projects/Visualization_layer.ipynb`
 
-The `Visualization_layer.ipynb` notebook is dedicated to interpreting and understanding the inner workings of the emotion detection model by visualizing what the neural network "sees" and focuses on during prediction. Here’s what is accomplished in this notebook:
+The Visualization_layer.ipynb notebook (found inside the anaconda_projects/ folder) is dedicated to interpreting and understanding the inner workings of the emotion detection model by visualizing what the neural network "sees" and focuses on during prediction. Here’s what is accomplished in this notebook:
 
 1. **Model and Image Preparation**
    - Loads the pre-trained Keras model (`emotion2_model.keras`).
